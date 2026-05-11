@@ -46,11 +46,11 @@ This work aims to support the early detection of dyslexia in Arabic-speaking chi
 
 
 # Authors
-
+College of Computer and Information Sciences  
+Al Imam Mohammad Ibn Saud Islamic University
 - Danah Sebhan Al-Ghezii
 - Ghaida Saeed Al-Dowsary
 - Lujain Mohammed Al-Suhaibani
 - Reema Khaled Al-Obaid
 
-College of Computer and Information Sciences  
-Al Imam Mohammad Ibn Saud Islamic University
+
