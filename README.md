@@ -3,8 +3,9 @@
 # Overview
 This repository contains the YUSR Arabic Dyslexia Dataset, a synthetic Arabic handwritten dataset designed for dyslexia detection in Arabic-speaking children using deep learning models.
 
-The dataset was constructed using handwritten Arabic letters and augmentation techniques to simulate dyslexic handwriting patterns.
+The dataset contains 29,130 Arabic handwritten letter images generated for dyslexia classification and Arabic letter recognition tasks.
 
+The dataset was constructed using handwritten Arabic letters and augmentation techniques to simulate dyslexic handwriting patterns.
 
 # Dataset Description
 
@@ -12,8 +13,7 @@ The dataset includes:
 
 - Arabic handwritten isolated letters
 - Train / Validation / Test splits
-- Dyslexic samples
-- Non-Dyslexic samples
+- Each split contains Dyslexic and Non_Dyslexic classes
 
 
 # Dataset Construction
